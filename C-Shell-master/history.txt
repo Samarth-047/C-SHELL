@@ -1,0 +1,11 @@
+jobs
+cat < hi.txt
+quit
+ls
+ls
+cd
+emacs &
+jobs
+jobs
+exit
+quit
